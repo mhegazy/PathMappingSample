@@ -1,9 +1,13 @@
 # PathMappingSample
 
+You will need `typescript@next` for this to work:
+
 ```cmd
 npm install typescript@next
 ```
 
+For extra diagnostics use `--traceModuleResolution`:
+
 ```cmd
-tsc
+tsc --traceModuleResolution
 ```
