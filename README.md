@@ -1,4 +1,4 @@
-# PathMappingSample
+# TypeScript Path Mapping Sample
 
 You will need `typescript@next` for this to work:
 
