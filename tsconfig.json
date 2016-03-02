@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "moduleResolution": "node",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "baseUrl" : "./",
+        "paths": {
+            "*": [
+                "packages/*",
+                "node_modules/*"
+            ]
+        }
+    },
+    "file": ["src/environemnt.ts"]
+}
